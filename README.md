@@ -4,8 +4,8 @@ This branch hosts OTA for PixeneOS (GrapheneOS++)
 
 This OTA comes in 2 flavors:
 
-- [magisk](https://pixincreate.github.io/PixeneOS/magisk/)
-- [rootless](https://pixincreate.github.io/PixeneOS/rootless/)
+- [magisk](https://yarcod.github.io/PixeneOS/magisk/)
+- [rootless](https://yarcod.github.io/PixeneOS/rootless/)
 
 ## Usage
 
