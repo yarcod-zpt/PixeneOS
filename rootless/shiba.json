@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2025073000/shiba-2025073000-rootless-d98039f.zip",
+    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2025073000/shiba-2025073000-rootless-d98039f.zip.csig"
+  }
+}
